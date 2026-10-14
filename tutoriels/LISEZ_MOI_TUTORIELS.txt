@@ -1,0 +1,9 @@
+Guide PDF et tutoriel vidéo – L’atelier du BTS : l’entrepreneuriat
+
+Ces fichiers sont intégrés au site GitHub Pages dans la rubrique « Mon projet ».
+Ils peuvent également être déposés sur OneDrive. Aucun lien de partage OneDrive n’est requis pour leur consultation via le site.
+
+Fichiers :
+- Guide_illustre_Remplir_Sauvegarder_Recharger.pdf
+- video.html (lecteur sur le site)
+- Tutoriel_video_Remplir_Sauvegarder_Recharger.mp4

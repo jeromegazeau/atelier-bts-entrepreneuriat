@@ -1,0 +1,16 @@
+L’ATELIER DU BTS : L’ENTREPRENEURIAT
+Tutoriel vidéo - remplir, sauvegarder et recharger votre projet
+Vidéo sous-titrée sans narration vocale.
+
+00:00  Un projet, une méthode, une sauvegarde.
+00:07  Accédez à « Mon projet » ou « Commencer mon projet ». Complétez la carte d’identité : nom, secteur, zone, clientèle et idée.
+00:18  Dans les sept étapes, rédigez des réponses précises. Cochez une étape une fois qu’elle est prête.
+00:29  Les champs sont automatiquement mémorisés dans le navigateur de cet appareil. Ce n’est pas une sauvegarde transportable.
+00:40  En fin de séance, cliquez sur « ↓ Sauvegarder mon projet » : un fichier .json est téléchargé.
+00:51  Rangez ce fichier dans votre OneDrive PERSONNEL et PRIVÉ, jamais dans un dossier public de ressources.
+01:03  Pour reprendre le travail, téléchargez au besoin le .json depuis OneDrive, puis cliquez sur « ↑ Recharger ».
+01:15  Vérifiez le nom du projet, vos réponses et la progression. Exportez une nouvelle sauvegarde après votre séance.
+01:28  Les quatre bons réflexes : remplir, sauvegarder, conserver en privé, recharger.
+
+ATTENTION : recharger un fichier remplace le projet actuellement affiché dans le navigateur. Exportez-le auparavant si vous souhaitez le conserver.
+« Imprimer » produit un PDF de consultation, pas un fichier permettant de recharger les données.
