@@ -1,0 +1,435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>L’ATELIER ENTREPRENEUR · De l’idée au projet viable</title>
+  </head>
+  <body>
+    <outline text="L’ATELIER ENTREPRENEUR · De l’idée au projet viable" _type="root">
+      <outline text="TRANSVERSAL · État d’esprit entrepreneurial" _type="mindset">
+        <outline text="Savoir pourquoi entreprendre" _type="topic">
+          <outline text="❓ Quel besoin ou quelle conviction me donne envie d’agir ?" _type="question" />
+          <outline text="❓ Quelles sont mes motivations, mes contraintes et ma disponibilité ?" _type="question" />
+          <outline text="❓ Quelles valeurs souhaite-je respecter dans mon activité ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Word / Canva · Boussole personnelle : motivation, valeurs, contraintes" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · OneNote · Journal de bord entrepreneurial" _type="future" />
+          <outline text="➜ À PRODUIRE · Une intention de projet écrite en 5 lignes" _type="deliverable" />
+        </outline>
+        <outline text="Passer des opinions aux preuves" _type="topic">
+          <outline text="❓ Qu’est-ce que je crois savoir, sans l’avoir vérifié ?" _type="question" />
+          <outline text="❓ Quelle expérience simple puis-je mener cette semaine ?" _type="question" />
+          <outline text="❓ Qu’ai-je appris en parlant à de vrais clients ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Questionnaire de découverte client" _type="ready" _toolFile="Questionnaire_clients_Forms.docx" />
+          <outline text="◇ OUTIL À CRÉER · Excel / Microsoft Lists · Registre des hypothèses et preuves" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Forms · Mini-test de concept" _type="future" />
+          <outline text="➜ À PRODUIRE · 3 hypothèses importantes + 1 test par hypothèse" _type="deliverable" />
+        </outline>
+        <outline text="Gérer le risque et apprendre vite" _type="topic">
+          <outline text="❓ Quel petit test peu coûteux peut réduire mon incertitude ?" _type="question" />
+          <outline text="❓ À quelles conditions dois-je poursuivre, modifier ou abandonner ?" _type="question" />
+          <outline text="❓ Quelles décisions reposent sur des données plutôt que sur l’enthousiasme ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Matrice risques / probabilité / impact / parades" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Tableau d’expérimentation : tester, mesurer, apprendre" _type="future" />
+          <outline text="➜ À PRODUIRE · Un risque prioritaire et un test concret" _type="deliverable" />
+        </outline>
+        <outline text="S’organiser, coopérer et persévérer" _type="topic">
+          <outline text="❓ Qui fait quoi et pour quand ?" _type="question" />
+          <outline text="❓ Comment demander de l’aide à un client, partenaire ou expert ?" _type="question" />
+          <outline text="❓ Quelles habitudes me permettent d’avancer chaque semaine ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Planning, RACI et risques" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Planner / To Do · Plan d’actions hebdomadaire" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Feuille de route à 90 jours" _type="future" />
+          <outline text="➜ À PRODUIRE · 3 priorités et une date de revue" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="01 · PRÉSENTATION DU PROJET" _type="stage1">
+        <outline text="Naissance de l’idée et problème client" _type="topic">
+          <outline text="❓ D’où vient l’idée et quel problème concret résout-elle ?" _type="question" />
+          <outline text="❓ À qui ce problème arrive-t-il et dans quelle situation ?" _type="question" />
+          <outline text="❓ Quelles solutions utilisent déjà les personnes concernées ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Trame de présentation du projet" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Fiche idée en 1 page (problème, cible, solution)" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Forms · 5 entretiens exploratoires" _type="future" />
+          <outline text="➜ À PRODUIRE · Présentation claire du problème et de la solution" _type="deliverable" />
+        </outline>
+        <outline text="Promesse et proposition de valeur" _type="topic">
+          <outline text="❓ Pourquoi un client choisirait-il cette solution plutôt qu’une autre ?" _type="question" />
+          <outline text="❓ Quel bénéfice mesurable la proposition apporte-t-elle ?" _type="question" />
+          <outline text="❓ Quelle première version du produit ou service peut être testée ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Canvas et pitch" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Proposition de valeur (Value Proposition Canvas)" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · PowerPoint · Visuel de démonstration du service" _type="future" />
+          <outline text="➜ À PRODUIRE · Une promesse simple en une phrase" _type="deliverable" />
+        </outline>
+        <outline text="Identité : nom, logo et concept" _type="topic">
+          <outline text="❓ Le nom traduit-il l’activité et parle-t-il aux clients ?" _type="question" />
+          <outline text="❓ Le nom de domaine et les signes distinctifs sont-ils disponibles ?" _type="question" />
+          <outline text="❓ Quelle image et quel ton de marque souhaitez-vous ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier : présentation et identité" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Logo, palette, mini-charte et maquette" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Liste de vérification nom / domaine / marque" _type="future" />
+          <outline text="➜ À PRODUIRE · Nom, slogan éventuel, logo et présentation synthétique" _type="deliverable" />
+        </outline>
+        <outline text="Périmètre et objectifs du projet" _type="topic">
+          <outline text="❓ Que vais-je vendre exactement, à qui, où et quand ?" _type="question" />
+          <outline text="❓ Quel résultat viser à 3, 6 et 12 mois ?" _type="question" />
+          <outline text="❓ Qu’est-ce qui est hors du périmètre pour l’instant ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Canevas du dossier entrepreneurial" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Objectifs SMART et indicateurs" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Vision du projet à un an" _type="future" />
+          <outline text="➜ À PRODUIRE · Fiche projet : activité, clientèle, zone, objectifs" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="02 · DIAGNOSTIC (critère ① du jury)" _type="stage2">
+        <outline text="Macro-environnement : PESTEL" _type="topic">
+          <outline text="❓ Quelles évolutions politiques, économiques et sociales influencent l’activité ?" _type="question" />
+          <outline text="❓ Quelles technologies, contraintes environnementales et règles changent le marché ?" _type="question" />
+          <outline text="❓ Qu’est-ce qui représente une opportunité ou une menace ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; PESTEL" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · OneNote · Veille sourcée avec dates et liens" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Infographie des tendances majeures" _type="future" />
+          <outline text="➜ À PRODUIRE · PESTEL sourcé avec priorisation des tendances" _type="deliverable" />
+        </outline>
+        <outline text="Micro-environnement : 5 forces de Porter" _type="topic">
+          <outline text="❓ Les concurrents sont-ils nombreux et agressifs ?" _type="question" />
+          <outline text="❓ Quelles sont les menaces de nouveaux entrants et de substitution ?" _type="question" />
+          <outline text="❓ Quel est le pouvoir des fournisseurs et des clients ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Porter" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Schéma des cinq forces" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Carte des acteurs et influences" _type="future" />
+          <outline text="➜ À PRODUIRE · 5 forces renseignées + 2 enjeux concurrentiels" _type="deliverable" />
+        </outline>
+        <outline text="Concurrence et solutions de remplacement" _type="topic">
+          <outline text="❓ Qui répond déjà au besoin : concurrent direct, indirect, substitut ?" _type="question" />
+          <outline text="❓ Quels prix, avis, atouts, faiblesses et canaux observer ?" _type="question" />
+          <outline text="❓ Comment éviter de se comparer uniquement aux offres semblables ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Concurrence" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Forms · Grille de visite mystère" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Tableau comparatif visuel des offres" _type="future" />
+          <outline text="➜ À PRODUIRE · Benchmark de concurrents vérifiables" _type="deliverable" />
+        </outline>
+        <outline text="Synthèse : SWOT et priorités" _type="topic">
+          <outline text="❓ Quelles sont nos forces et faiblesses internes ?" _type="question" />
+          <outline text="❓ Quelles opportunités et menaces résultent de l’environnement ?" _type="question" />
+          <outline text="❓ Quelles décisions en tirer pour réduire les risques ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; SWOT" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · SWOT sur une seule page" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Matrice impact / urgence des actions" _type="future" />
+          <outline text="➜ À PRODUIRE · SWOT argumentée et 3 priorités stratégiques" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="03 · ANALYSE MARKETING (critères ② et ③)" _type="stage3">
+        <outline text="Étudier la demande et le marché" _type="topic">
+          <outline text="❓ Quelle est la taille réaliste du marché sur ma zone ?" _type="question" />
+          <outline text="❓ À quelle fréquence le besoin se présente-t-il ?" _type="question" />
+          <outline text="❓ Que sait-on vraiment grâce aux données et aux observations ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Enquete_bilan" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Estimation TAM / SAM / SOM avec hypothèses sourcées" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · OneNote · Fiche sources et limites des données" _type="future" />
+          <outline text="➜ À PRODUIRE · Marché et demande estimés avec sources" _type="deliverable" />
+        </outline>
+        <outline text="Concevoir une enquête clients" _type="topic">
+          <outline text="❓ Qui interroger pour atteindre la bonne cible ?" _type="question" />
+          <outline text="❓ Quelles questions mesureront besoin, fréquence, budget et freins ?" _type="question" />
+          <outline text="❓ Comment éviter les questions orientées et les conclusions hâtives ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Questionnaire_clients_Forms" _type="ready" _toolFile="Questionnaire_clients_Forms.docx" />
+          <outline text="✔ OUTIL PRÊT · Excel · Enquete_brute et Enquete_bilan" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Microsoft Forms · Questionnaire diffusé + analyse réponses" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Synthèse des principaux résultats" _type="future" />
+          <outline text="➜ À PRODUIRE · Questionnaire, échantillon et 3 enseignements" _type="deliverable" />
+        </outline>
+        <outline text="Segmenter et décrire un persona" _type="topic">
+          <outline text="❓ Quels groupes de clients ont des besoins différents ?" _type="question" />
+          <outline text="❓ Quel segment est le plus accessible et rentable au démarrage ?" _type="question" />
+          <outline text="❓ Comment se déroule son parcours d’achat ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Segments_4P" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="✔ OUTIL PRÊT · Word · Canvas_et_pitch (persona)" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Fiche persona visuelle" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Priorisation des segments (taille, accès, marge)" _type="future" />
+          <outline text="➜ À PRODUIRE · Cible prioritaire justifiée + persona" _type="deliverable" />
+        </outline>
+        <outline text="Choisir un positionnement distinctif" _type="topic">
+          <outline text="❓ Sur quels deux critères les clients comparent-ils les offres ?" _type="question" />
+          <outline text="❓ Où se placent les concurrents et où voulons-nous nous situer ?" _type="question" />
+          <outline text="❓ Quel avantage est crédible et défendable ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Positionnement" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Carte perceptuelle sur 2 axes" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · PowerPoint · Argumentaire comparatif" _type="future" />
+          <outline text="➜ À PRODUIRE · Carte de positionnement et promesse différenciante" _type="deliverable" />
+        </outline>
+        <outline text="Construire l’offre et le marketing mix" _type="topic">
+          <outline text="❓ Quelles caractéristiques, options et services proposer ?" _type="question" />
+          <outline text="❓ Quel prix le client accepte-t-il et quelle marge reste-t-il ?" _type="question" />
+          <outline text="❓ Quels canaux de vente et de communication utiliser ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Segments_4P" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Fiche offre et grille tarifaire" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Calcul du coût unitaire et de la marge" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Calendrier éditorial de lancement" _type="future" />
+          <outline text="➜ À PRODUIRE · Offre et marketing mix (produit, prix, distribution, communication)" _type="deliverable" />
+        </outline>
+        <outline text="Définir le modèle économique" _type="topic">
+          <outline text="❓ Qui paie, combien et à quelle fréquence ?" _type="question" />
+          <outline text="❓ Quelles ressources et activités génèrent les principaux coûts ?" _type="question" />
+          <outline text="❓ Quels partenaires sont indispensables pour délivrer la valeur ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Business Model Canvas" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Business Model Canvas collaboratif" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Tableau des unités économiques par offre" _type="future" />
+          <outline text="➜ À PRODUIRE · Business Model Canvas cohérent avec le marketing" _type="deliverable" />
+        </outline>
+        <outline text="Estimer le potentiel commercial" _type="topic">
+          <outline text="❓ Combien de clients atteignables, de ventes et de paniers moyens ?" _type="question" />
+          <outline text="❓ Quelles hypothèses basses, centrales et hautes tester ?" _type="question" />
+          <outline text="❓ Quelle saisonnalité, quel taux de transformation et quelle capacité maximale ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; CA_scenarios" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Tunnel commercial : prospects × conversion × panier" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Capacité et taux d’occupation par activité" _type="future" />
+          <outline text="➜ À PRODUIRE · CA potentiel : prudent / central / ambitieux, justifié" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="04 · LOCALISATION ET PARTENAIRES (critère ④)" _type="stage4">
+        <outline text="Choisir son mode d’implantation" _type="topic">
+          <outline text="❓ L’activité nécessite-t-elle un local, une vente en ligne, une activité mobile ?" _type="question" />
+          <outline text="❓ La clientèle, le flux et l’accessibilité correspondent-ils au projet ?" _type="question" />
+          <outline text="❓ Quels coûts et contraintes découlent du lieu ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Implantation" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Matrice multicritère des emplacements" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Plan et carte de l’implantation" _type="future" />
+          <outline text="➜ À PRODUIRE · Choix d’implantation argumenté" _type="deliverable" />
+        </outline>
+        <outline text="Comprendre la zone de chalandise" _type="topic">
+          <outline text="❓ D’où viennent les clients et combien de temps mettent-ils ?" _type="question" />
+          <outline text="❓ Quels lieux concurrents et pôles d’attraction existent autour ?" _type="question" />
+          <outline text="❓ À quels moments la fréquentation varie-t-elle ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Comparatif de sites : Implantation" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Estimation flux × captation × panier" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Carte des zones primaire / secondaire / tertiaire" _type="future" />
+          <outline text="➜ À PRODUIRE · Zone de chalandise et volume potentiel" _type="deliverable" />
+        </outline>
+        <outline text="Identifier les partenaires clés" _type="topic">
+          <outline text="❓ De quels fournisseurs, prescripteurs, distributeurs ou relais ai-je besoin ?" _type="question" />
+          <outline text="❓ Quel intérêt réciproque puis-je proposer à chacun ?" _type="question" />
+          <outline text="❓ Quels critères permettent de retenir un partenaire fiable ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Partenaires" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Cartographie des parties prenantes" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Grille d’évaluation fournisseurs" _type="future" />
+          <outline text="➜ À PRODUIRE · 3 à 5 partenaires prioritaires et leur rôle" _type="deliverable" />
+        </outline>
+        <outline text="Prospecter et négocier des partenariats" _type="topic">
+          <outline text="❓ Qui contacter, avec quel message et quelle contrepartie ?" _type="question" />
+          <outline text="❓ Quels engagements et indicateurs négocier ?" _type="question" />
+          <outline text="❓ Comment suivre les échanges sans perdre les contacts ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Suivi partenariats" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Outlook · Modèle de prise de contact" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Tableau de suivi des négociations" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Word · Trame de convention à faire relire" _type="future" />
+          <outline text="➜ À PRODUIRE · Plan de contacts et proposition de partenariat" _type="deliverable" />
+        </outline>
+        <outline text="Sécuriser la localisation et la supply chain" _type="topic">
+          <outline text="❓ Quels sont les risques de rupture, de livraison ou de dépendance ?" _type="question" />
+          <outline text="❓ Le bail, le voisinage et les usages du local conviennent-ils ?" _type="question" />
+          <outline text="❓ Existe-t-il une solution de repli en cas de défaillance ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Risques" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Tableau stock / réapprovisionnement" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Word · Checklist bail et assurances" _type="future" />
+          <outline text="➜ À PRODUIRE · Risques et solutions de remplacement" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="05 · RESSOURCES HUMAINES (critère ⑤)" _type="stage5">
+        <outline text="Définir les activités et compétences" _type="topic">
+          <outline text="❓ Quelles tâches doivent être assurées pour livrer l’offre ?" _type="question" />
+          <outline text="❓ Quelles compétences avons-nous déjà ?" _type="question" />
+          <outline text="❓ Quelles compétences faudra-t-il recruter, former ou sous-traiter ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; RH" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Carte des compétences et des métiers" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Matrice compétences / besoins / écarts" _type="future" />
+          <outline text="➜ À PRODUIRE · Besoins en compétences expliqués" _type="deliverable" />
+        </outline>
+        <outline text="Dimensionner les effectifs" _type="topic">
+          <outline text="❓ Combien d’heures de travail par semaine sont nécessaires ?" _type="question" />
+          <outline text="❓ Comment gérer les pointes, les congés et les absences ?" _type="question" />
+          <outline text="❓ Quels recrutements sont vraiment nécessaires au départ ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; RH et Planning" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Planning hebdomadaire et volume d’heures" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Simulation effectifs par niveau d’activité" _type="future" />
+          <outline text="➜ À PRODUIRE · Nombre de personnes et planning prévisionnel" _type="deliverable" />
+        </outline>
+        <outline text="Rédiger les fiches de poste" _type="topic">
+          <outline text="❓ Quelles missions, qualifications et responsabilités ?" _type="question" />
+          <outline text="❓ Quels critères simples permettront de sélectionner le bon profil ?" _type="question" />
+          <outline text="❓ Qui encadrera et formera la personne ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier entrepreneurial, partie RH" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Word · Fiche de poste type" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Microsoft Forms · Grille d’entretien de recrutement" _type="future" />
+          <outline text="➜ À PRODUIRE · Une fiche de poste par fonction importante" _type="deliverable" />
+        </outline>
+        <outline text="Organiser les responsabilités" _type="topic">
+          <outline text="❓ Qui décide, qui réalise et qui vérifie ?" _type="question" />
+          <outline text="❓ Qui remplace une personne absente ?" _type="question" />
+          <outline text="❓ Comment partager les informations et le suivi ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; RACI" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Organigramme simple" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Teams / Planner · Suivi des missions" _type="future" />
+          <outline text="➜ À PRODUIRE · Organigramme et matrice RACI" _type="deliverable" />
+        </outline>
+        <outline text="Prévoir le coût et les obligations RH" _type="topic">
+          <outline text="❓ Quel coût employeur et quelles charges intégrer ?" _type="question" />
+          <outline text="❓ Quelles obligations de contrat, sécurité et conditions de travail ?" _type="question" />
+          <outline text="❓ À quel moment recruter selon la trésorerie ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Prévisionnel : Resultat_12m et Tresorerie_12m" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Budget salarial chargé par poste" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Word · Checklist recrutement / sécurité à valider" _type="future" />
+          <outline text="➜ À PRODUIRE · Budget RH réaliste et cohérent avec les ventes" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="06 · ANALYSE JURIDIQUE" _type="stage6">
+        <outline text="Décrire les besoins avant de choisir" _type="topic">
+          <outline text="❓ Serai-je seul ou avec des associés ?" _type="question" />
+          <outline text="❓ Quels investissements, risques et besoins de financement ?" _type="question" />
+          <outline text="❓ Quelle protection patrimoniale et quelle gouvernance souhaitées ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Juridique" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Microsoft Forms · Questionnaire d’orientation du choix juridique" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Grille multicritère de sélection" _type="future" />
+          <outline text="➜ À PRODUIRE · Liste des critères de choix" _type="deliverable" />
+        </outline>
+        <outline text="Comparer les structures possibles" _type="topic">
+          <outline text="❓ EI ou société : quelle responsabilité et quels formalismes ?" _type="question" />
+          <outline text="❓ Seul : quelles différences entre EI, EURL et SASU ?" _type="question" />
+          <outline text="❓ À plusieurs : quelles différences entre SARL et SAS ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Comparatif juridique dans Organisation_et_Partenaires" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Arbre décisionnel : seul / associés / projet" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Comparatif coûts de création et gestion" _type="future" />
+          <outline text="➜ À PRODUIRE · 2 ou 3 formes comparées, choix argumenté" _type="deliverable" />
+          <outline text="↗ RESSOURCE OFFICIELLE · Service Public — choix de la forme juridique" _type="resource" _url="https://entreprendre.service-public.gouv.fr/vosdroits/R18323" />
+        </outline>
+        <outline text="Distinguer fiscalité, régime social et TVA" _type="topic">
+          <outline text="❓ Le régime micro est-il adapté et accessible ? (ce n’est pas une forme juridique)" _type="question" />
+          <outline text="❓ Quels effets du statut sur rémunération, cotisations et impôts ?" _type="question" />
+          <outline text="❓ Suis-je concerné par la TVA et par quel régime ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Comparatif prévisionnel de rémunération et prélèvements" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Word · Fiche vérification fiscalité / TVA" _type="future" />
+          <outline text="➜ À PRODUIRE · Hypothèses fiscales et sociales à confirmer" _type="deliverable" />
+          <outline text="↗ RESSOURCE OFFICIELLE · Entreprendre.Service-Public.fr" _type="resource" _url="https://entreprendre.service-public.gouv.fr/" />
+        </outline>
+        <outline text="Vérifier les obligations de l’activité" _type="topic">
+          <outline text="❓ L’activité nécessite-t-elle diplôme, licence ou autorisation ?" _type="question" />
+          <outline text="❓ Quels contrats, assurances, règles d’hygiène et de sécurité ?" _type="question" />
+          <outline text="❓ Quelles obligations sur les données personnelles et la vente en ligne ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier : analyse juridique" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Checklist conformité / échéances / preuves" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Word · Registre des obligations et contrats" _type="future" />
+          <outline text="➜ À PRODUIRE · Réglementation applicable et justificatifs" _type="deliverable" />
+          <outline text="↗ RESSOURCE OFFICIELLE · Guichet unique INPI" _type="resource" _url="https://procedures.inpi.fr/" />
+        </outline>
+        <outline text="Préparer les formalités et sécuriser la décision" _type="topic">
+          <outline text="❓ Quelles étapes d’immatriculation et combien de temps ?" _type="question" />
+          <outline text="❓ Le nom, la marque et les créations sont-ils protégés ?" _type="question" />
+          <outline text="❓ Quelles questions poser au conseiller juridique ou comptable ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Calendrier des formalités" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Word · Questions à poser à un professionnel" _type="future" />
+          <outline text="➜ À PRODUIRE · Choix motivé, formalités et points à valider" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="07 · ANALYSE FINANCIÈRE (critère ⑥)" _type="stage7">
+        <outline text="Chiffrer le budget de départ" _type="topic">
+          <outline text="❓ Quels investissements, travaux, logiciels et stocks sont indispensables ?" _type="question" />
+          <outline text="❓ Quelles dépenses avant les premières recettes ?" _type="question" />
+          <outline text="❓ Quel matelas de trésorerie faut-il prévoir ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Budget_depart" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Devis fournisseurs comparés" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Liste dépenses indispensables / différables" _type="future" />
+          <outline text="➜ À PRODUIRE · Budget initial chiffré avec sources et devis" _type="deliverable" />
+        </outline>
+        <outline text="Établir le plan de financement initial" _type="topic">
+          <outline text="❓ Quel apport personnel est disponible ?" _type="question" />
+          <outline text="❓ Quels prêts, aides et autres ressources sont réalistes ?" _type="question" />
+          <outline text="❓ Les ressources couvrent-elles les besoins, dont la trésorerie de sécurité ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Financement" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Word · Dossier de demande de financement" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Comparateur prêt : mensualité / intérêts / garanties" _type="future" />
+          <outline text="➜ À PRODUIRE · Plan de financement équilibré et crédible" _type="deliverable" />
+        </outline>
+        <outline text="Calculer le CA selon trois scénarios" _type="topic">
+          <outline text="❓ Quel prix moyen HT et combien de ventes par produit ou service ?" _type="question" />
+          <outline text="❓ Comment le volume évolue-t-il en prudent, central et ambitieux ?" _type="question" />
+          <outline text="❓ Quelles limites de capacité, calendrier ou saisonnalité ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; CA_scenarios" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Plan de ventes mensuel par activité" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Taux de conversion / ticket moyen / panier" _type="future" />
+          <outline text="➜ À PRODUIRE · CA prudent, central et ambitieux justifiés" _type="deliverable" />
+        </outline>
+        <outline text="Construire le compte de résultat prévisionnel" _type="topic">
+          <outline text="❓ Quelles charges fixes et variables seront supportées ?" _type="question" />
+          <outline text="❓ Quel résultat prévisionnel sur 12 mois et sur chaque scénario ?" _type="question" />
+          <outline text="❓ Quels amortissements et autres charges faut-il considérer ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Resultat_12m" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Table charges fixes / variables par famille" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Simulation de marge par offre" _type="future" />
+          <outline text="➜ À PRODUIRE · Compte de résultat cohérent et argumenté" _type="deliverable" />
+        </outline>
+        <outline text="Construire la trésorerie mois par mois" _type="topic">
+          <outline text="❓ Quand les clients paient-ils réellement ?" _type="question" />
+          <outline text="❓ Quand décaisser salaires, fournisseurs, impôts, cotisations et emprunts ?" _type="question" />
+          <outline text="❓ Quel est le point bas de trésorerie et comment y faire face ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Tresorerie_12m" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Suivi encaissements / décaissements avec décalages" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Test de trésorerie en scénario prudent" _type="future" />
+          <outline text="➜ À PRODUIRE · Plan de trésorerie 12 mois sans mois critique non financé" _type="deliverable" />
+        </outline>
+        <outline text="Établir le bilan d’ouverture" _type="topic">
+          <outline text="❓ Quels actifs et disponibilités figurent au démarrage ?" _type="question" />
+          <outline text="❓ Quelles ressources : capitaux propres, emprunts et dettes ?" _type="question" />
+          <outline text="❓ Le bilan est-il cohérent avec le budget et le financement ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Bilan_ouverture" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Word · Notice de lecture du bilan pour débutant" _type="future" />
+          <outline text="➜ À PRODUIRE · Bilan d’ouverture équilibré" _type="deliverable" />
+        </outline>
+        <outline text="Vérifier la rentabilité et la résistance du projet" _type="topic">
+          <outline text="❓ Quel CA minimum permet de couvrir les charges ?" _type="question" />
+          <outline text="❓ Combien de ventes ou de clients cela représente-t-il ?" _type="question" />
+          <outline text="❓ Quel impact si le CA baisse, si les coûts augmentent ou si le lancement est retardé ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Seuil_rentabilite" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Sensibilité : CA −20 %, charges +10 %" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Test capacité de remboursement / scénario dégradé" _type="future" />
+          <outline text="➜ À PRODUIRE · Seuil de rentabilité + risques + décisions possibles" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="TRANSVERSAL · Finaliser le dossier et convaincre" _type="final">
+        <outline text="Respecter la trame des 7 parties" _type="topic">
+          <outline text="❓ Chaque partie répond-elle aux questions du projet ?" _type="question" />
+          <outline text="❓ Les chiffres et hypothèses sont-ils identiques d’une partie à l’autre ?" _type="question" />
+          <outline text="❓ Quels documents seront placés en annexe ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier_entrepreneurial.docx" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Word · Sommaire automatique et liste d’annexes" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · OneDrive · Dossier de projet partagé" _type="future" />
+          <outline text="➜ À PRODUIRE · Dossier structuré et référencé" _type="deliverable" />
+        </outline>
+        <outline text="Correspondance avec les six critères du jury" _type="topic">
+          <outline text="❓ ① Diagnostic : PESTEL, Porter et synthèse ?" _type="question" />
+          <outline text="❓ ② Positionnement et ③ potentiel commercial : enquête, différenciation, CA ?" _type="question" />
+          <outline text="❓ ④ Partenariats ; ⑤ ressources humaines ; ⑥ financement : preuves fournies ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier, guide des critères" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Grille d’autoévaluation des six critères" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Forms · Évaluation entre pairs" _type="future" />
+          <outline text="➜ À PRODUIRE · 6 critères couverts par des preuves" _type="deliverable" />
+        </outline>
+        <outline text="Préparer l’oral et le pitch" _type="topic">
+          <outline text="❓ Comment expliquer le problème et la solution en 60 secondes ?" _type="question" />
+          <outline text="❓ Quels chiffres convainquent sans noyer le jury ?" _type="question" />
+          <outline text="❓ Quelles objections ou limites êtes-vous prêts à reconnaître ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Canvas_et_pitch.docx" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+          <outline text="◇ OUTIL À CRÉER · PowerPoint / Canva · Diaporama court (10 slides)" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Forms · Grille de feedback sur le pitch" _type="future" />
+          <outline text="➜ À PRODUIRE · Pitch 60 s + présentation 5 min + réponses aux objections" _type="deliverable" />
+        </outline>
+        <outline text="Décider des prochaines actions" _type="topic">
+          <outline text="❓ Quelles hypothèses doivent encore être testées ?" _type="question" />
+          <outline text="❓ Quelles étapes sont prioritaires sur les 30 prochains jours ?" _type="question" />
+          <outline text="❓ Quelles conditions doivent être réunies avant un lancement réel ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Planning / Risques" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+          <outline text="◇ OUTIL À CRÉER · Planner · Rétroplanning lancement 30/60/90 jours" _type="future" />
+          <outline text="◇ OUTIL À CRÉER · Canva · Tableau de bord des indicateurs" _type="future" />
+          <outline text="➜ À PRODUIRE · Plan d’action priorisé, responsable et daté" _type="deliverable" />
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>

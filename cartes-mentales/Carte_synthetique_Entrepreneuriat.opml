@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>CRÉER SON ENTREPRISE · Parcours en 7 étapes</title>
+  </head>
+  <body>
+    <outline text="CRÉER SON ENTREPRISE · Parcours en 7 étapes" _type="root">
+      <outline text="TRANSVERSAL · État d’esprit entrepreneurial" _type="mindset">
+        <outline text="Savoir pourquoi entreprendre" _type="topic">
+          <outline text="❓ Quel besoin ou quelle conviction me donne envie d’agir ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Word / Canva · Boussole personnelle : motivation, valeurs, contraintes" _type="future" />
+        </outline>
+        <outline text="Passer des opinions aux preuves" _type="topic">
+          <outline text="❓ Qu’est-ce que je crois savoir, sans l’avoir vérifié ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Questionnaire de découverte client" _type="ready" _toolFile="Questionnaire_clients_Forms.docx" />
+        </outline>
+        <outline text="Gérer le risque et apprendre vite" _type="topic">
+          <outline text="❓ Quel petit test peu coûteux peut réduire mon incertitude ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Matrice risques / probabilité / impact / parades" _type="future" />
+        </outline>
+        <outline text="S’organiser, coopérer et persévérer" _type="topic">
+          <outline text="❓ Qui fait quoi et pour quand ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Planning, RACI et risques" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+      </outline>
+      <outline text="01 · PRÉSENTATION DU PROJET" _type="stage1">
+        <outline text="Naissance de l’idée et problème client" _type="topic">
+          <outline text="❓ D’où vient l’idée et quel problème concret résout-elle ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Trame de présentation du projet" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+        <outline text="Promesse et proposition de valeur" _type="topic">
+          <outline text="❓ Pourquoi un client choisirait-il cette solution plutôt qu’une autre ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Canvas et pitch" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+        </outline>
+        <outline text="Identité : nom, logo et concept" _type="topic">
+          <outline text="❓ Le nom traduit-il l’activité et parle-t-il aux clients ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier : présentation et identité" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+        <outline text="Périmètre et objectifs du projet" _type="topic">
+          <outline text="❓ Que vais-je vendre exactement, à qui, où et quand ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Canevas du dossier entrepreneurial" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+      </outline>
+      <outline text="02 · DIAGNOSTIC (critère ① du jury)" _type="stage2">
+        <outline text="Macro-environnement : PESTEL" _type="topic">
+          <outline text="❓ Quelles évolutions politiques, économiques et sociales influencent l’activité ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; PESTEL" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Micro-environnement : 5 forces de Porter" _type="topic">
+          <outline text="❓ Les concurrents sont-ils nombreux et agressifs ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Porter" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Concurrence et solutions de remplacement" _type="topic">
+          <outline text="❓ Qui répond déjà au besoin : concurrent direct, indirect, substitut ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Concurrence" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Synthèse : SWOT et priorités" _type="topic">
+          <outline text="❓ Quelles sont nos forces et faiblesses internes ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; SWOT" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+          <outline text="➜ À PRODUIRE · SWOT argumentée et 3 priorités stratégiques" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="03 · ANALYSE MARKETING (critères ② et ③)" _type="stage3">
+        <outline text="Étudier la demande et le marché" _type="topic">
+          <outline text="❓ Quelle est la taille réaliste du marché sur ma zone ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Enquete_bilan" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Concevoir une enquête clients" _type="topic">
+          <outline text="❓ Qui interroger pour atteindre la bonne cible ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Questionnaire_clients_Forms" _type="ready" _toolFile="Questionnaire_clients_Forms.docx" />
+        </outline>
+        <outline text="Segmenter et décrire un persona" _type="topic">
+          <outline text="❓ Quels groupes de clients ont des besoins différents ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Segments_4P" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Choisir un positionnement distinctif" _type="topic">
+          <outline text="❓ Sur quels deux critères les clients comparent-ils les offres ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Positionnement" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Construire l’offre et le marketing mix" _type="topic">
+          <outline text="❓ Quelles caractéristiques, options et services proposer ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Diagnostic_et_Marche &gt; Segments_4P" _type="ready" _toolFile="Diagnostic_et_Marche.xlsx" />
+        </outline>
+        <outline text="Définir le modèle économique" _type="topic">
+          <outline text="❓ Qui paie, combien et à quelle fréquence ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Business Model Canvas" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+        </outline>
+        <outline text="Estimer le potentiel commercial" _type="topic">
+          <outline text="❓ Combien de clients atteignables, de ventes et de paniers moyens ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; CA_scenarios" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="➜ À PRODUIRE · CA potentiel : prudent / central / ambitieux, justifié" _type="deliverable" />
+        </outline>
+      </outline>
+      <outline text="04 · LOCALISATION ET PARTENAIRES (critère ④)" _type="stage4">
+        <outline text="Choisir son mode d’implantation" _type="topic">
+          <outline text="❓ L’activité nécessite-t-elle un local, une vente en ligne, une activité mobile ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Implantation" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Comprendre la zone de chalandise" _type="topic">
+          <outline text="❓ D’où viennent les clients et combien de temps mettent-ils ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Comparatif de sites : Implantation" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Identifier les partenaires clés" _type="topic">
+          <outline text="❓ De quels fournisseurs, prescripteurs, distributeurs ou relais ai-je besoin ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Partenaires" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Prospecter et négocier des partenariats" _type="topic">
+          <outline text="❓ Qui contacter, avec quel message et quelle contrepartie ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Suivi partenariats" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Sécuriser la localisation et la supply chain" _type="topic">
+          <outline text="❓ Quels sont les risques de rupture, de livraison ou de dépendance ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Risques" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+      </outline>
+      <outline text="05 · RESSOURCES HUMAINES (critère ⑤)" _type="stage5">
+        <outline text="Définir les activités et compétences" _type="topic">
+          <outline text="❓ Quelles tâches doivent être assurées pour livrer l’offre ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; RH" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Dimensionner les effectifs" _type="topic">
+          <outline text="❓ Combien d’heures de travail par semaine sont nécessaires ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; RH et Planning" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Rédiger les fiches de poste" _type="topic">
+          <outline text="❓ Quelles missions, qualifications et responsabilités ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier entrepreneurial, partie RH" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+        <outline text="Organiser les responsabilités" _type="topic">
+          <outline text="❓ Qui décide, qui réalise et qui vérifie ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; RACI" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Prévoir le coût et les obligations RH" _type="topic">
+          <outline text="❓ Quel coût employeur et quelles charges intégrer ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Prévisionnel : Resultat_12m et Tresorerie_12m" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+      </outline>
+      <outline text="06 · ANALYSE JURIDIQUE" _type="stage6">
+        <outline text="Décrire les besoins avant de choisir" _type="topic">
+          <outline text="❓ Serai-je seul ou avec des associés ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Juridique" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Comparer les structures possibles" _type="topic">
+          <outline text="❓ EI ou société : quelle responsabilité et quels formalismes ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Comparatif juridique dans Organisation_et_Partenaires" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+        <outline text="Distinguer fiscalité, régime social et TVA" _type="topic">
+          <outline text="❓ Le régime micro est-il adapté et accessible ? (ce n’est pas une forme juridique)" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Comparatif prévisionnel de rémunération et prélèvements" _type="future" />
+        </outline>
+        <outline text="Vérifier les obligations de l’activité" _type="topic">
+          <outline text="❓ L’activité nécessite-t-elle diplôme, licence ou autorisation ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier : analyse juridique" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+        <outline text="Préparer les formalités et sécuriser la décision" _type="topic">
+          <outline text="❓ Quelles étapes d’immatriculation et combien de temps ?" _type="question" />
+          <outline text="◇ OUTIL À CRÉER · Excel · Calendrier des formalités" _type="future" />
+        </outline>
+      </outline>
+      <outline text="07 · ANALYSE FINANCIÈRE (critère ⑥)" _type="stage7">
+        <outline text="Chiffrer le budget de départ" _type="topic">
+          <outline text="❓ Quels investissements, travaux, logiciels et stocks sont indispensables ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Budget_depart" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+        <outline text="Établir le plan de financement initial" _type="topic">
+          <outline text="❓ Quel apport personnel est disponible ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Financement" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+        <outline text="Calculer le CA selon trois scénarios" _type="topic">
+          <outline text="❓ Quel prix moyen HT et combien de ventes par produit ou service ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; CA_scenarios" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+        <outline text="Construire le compte de résultat prévisionnel" _type="topic">
+          <outline text="❓ Quelles charges fixes et variables seront supportées ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Resultat_12m" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+        <outline text="Construire la trésorerie mois par mois" _type="topic">
+          <outline text="❓ Quand les clients paient-ils réellement ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Tresorerie_12m" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+        <outline text="Établir le bilan d’ouverture" _type="topic">
+          <outline text="❓ Quels actifs et disponibilités figurent au démarrage ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Bilan_ouverture" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+          <outline text="➜ À PRODUIRE · Bilan d’ouverture équilibré" _type="deliverable" />
+        </outline>
+        <outline text="Vérifier la rentabilité et la résistance du projet" _type="topic">
+          <outline text="❓ Quel CA minimum permet de couvrir les charges ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Previsionnel_financier &gt; Seuil_rentabilite" _type="ready" _toolFile="Previsionnel_financier.xlsx" />
+        </outline>
+      </outline>
+      <outline text="TRANSVERSAL · Finaliser le dossier et convaincre" _type="final">
+        <outline text="Respecter la trame des 7 parties" _type="topic">
+          <outline text="❓ Chaque partie répond-elle aux questions du projet ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier_entrepreneurial.docx" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+        <outline text="Correspondance avec les six critères du jury" _type="topic">
+          <outline text="❓ ① Diagnostic : PESTEL, Porter et synthèse ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Dossier, guide des critères" _type="ready" _toolFile="Dossier_entrepreneurial.docx" />
+        </outline>
+        <outline text="Préparer l’oral et le pitch" _type="topic">
+          <outline text="❓ Comment expliquer le problème et la solution en 60 secondes ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Word · Canvas_et_pitch.docx" _type="ready" _toolFile="Canvas_et_pitch.docx" />
+          <outline text="➜ À PRODUIRE · Pitch 60 s + présentation 5 min + réponses aux objections" _type="deliverable" />
+        </outline>
+        <outline text="Décider des prochaines actions" _type="topic">
+          <outline text="❓ Quelles hypothèses doivent encore être testées ?" _type="question" />
+          <outline text="✔ OUTIL PRÊT · Excel · Organisation_et_Partenaires &gt; Planning / Risques" _type="ready" _toolFile="Organisation_et_Partenaires.xlsx" />
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
